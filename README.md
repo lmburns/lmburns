@@ -25,7 +25,7 @@ In the process of learning Rust
 I've switch my interest from data science type stuff to software engineering
 
 * [Dotfiles](https://github.com/lmburns/dotfiles): Tons of configuration files
-* [`ftag`](https://github.com/lmburns/dotfiles): Meant to be used with [`jdberry/tag`](https://github.com/jdberry/tag)
+* [`ftag`](https://github.com/lmburns/ftag): Meant to be used with [`jdberry/tag`](https://github.com/jdberry/tag)
 * [`rip`](https://github.com/lmburns/rip): Fork with more features
 * [`rualdi`](https://github.com/lmburns/rualdi): Fork with more features
 * Quite a few more `python` repos
