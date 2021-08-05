@@ -1,5 +1,7 @@
 <h3 align="center">Lucas Burns</h3>
 
+<img align="right" src="https://lmburns.com/gallery/media/small/layers.png">
+
 #### Contact
 
 [![pgp](https://img.shields.io/badge/pgp-0xC011CBEF6628B679-313131?style=flat&labelColor=313131&color=313131)](https://github.com/lmburns.gpg)
