@@ -1,6 +1,6 @@
 <h3 align="center">Lucas Burns</h3>
 
-<img align="right" src="https://lmburns.com/gallery/media/small/layers.png">
+<img align="right" src="https://lmburns.com/gallery/media/small/layers-2.png">
 
 #### Contact
 
