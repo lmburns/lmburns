@@ -26,6 +26,7 @@ I've switch my interest from data science type stuff to software engineering
 
 * [Dotfiles](https://github.com/lmburns/dotfiles): Tons of configuration files
 * [`ftag`](https://github.com/lmburns/ftag): Meant to be used with [`jdberry/tag`](https://github.com/jdberry/tag)
-* [`rip`](https://github.com/lmburns/rip): Fork with more features
-* [`rualdi`](https://github.com/lmburns/rualdi): Fork with more features
+* [`rip`](https://github.com/lmburns/rip): Fork with some for features, as well as color
+* [`rualdi`](https://github.com/lmburns/rualdi): Fork with color, `fzf`, and more
+* [`wutag`](https://github.com/lmburns/wutag): Fork adding features, making it similar to [`tag`](https://github.com/jdberry/tag) mentioned above
 * Quite a few more `python` repos
