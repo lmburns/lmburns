@@ -29,4 +29,5 @@ I've switch my interest from data science type stuff to software engineering
 * [`rip`](https://github.com/lmburns/rip): Fork with some for features, as well as color
 * [`rualdi`](https://github.com/lmburns/rualdi): Fork with color, `fzf`, and more
 * [`wutag`](https://github.com/lmburns/wutag): Fork adding features, making it similar to [`tag`](https://github.com/jdberry/tag) mentioned above
+* [`kimbox`](https://github.com/lmburns/kimbox) A [Kimbie Dark](https://marketplace.visualstudio.com/items?itemName=dnamsons.kimbie-dark-plus) theme for `vim`
 * Quite a few more `python` repos
