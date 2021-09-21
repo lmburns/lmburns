@@ -22,7 +22,7 @@ In the process of learning Rust
 
 #### Projects
 
-I've switch my interest from data science type stuff to software engineering
+Here are some of my own projects and forks of other people's projects that I've been working on. I've recently switched my interests from data-science to software-engineering.
 
 * [Dotfiles](https://github.com/lmburns/dotfiles): Tons of configuration files
 * [`ftag`](https://github.com/lmburns/ftag): Meant to be used with [`jdberry/tag`](https://github.com/jdberry/tag)
