@@ -25,6 +25,7 @@ In the process of learning Rust
 Here are some of my own projects and forks of other people's projects that I've been working on. I've recently switched my interests from data-science to software-engineering.
 
 * [Dotfiles](https://github.com/lmburns/dotfiles): Tons of configuration files
+* [Linux dotfiles](https://github.com/lmburns/dotfiles-arch): Tons of configuration files for Linux
 * [`ftag`](https://github.com/lmburns/ftag): Meant to be used with [`jdberry/tag`](https://github.com/jdberry/tag)
 * [`rip`](https://github.com/lmburns/rip): Fork with globbing undo ability, plus many more features
 * [`hoard`](https://github.com/lmburns/hoard): Fork with ability for individual file encryption, ignore patterns in configuration, plus more
